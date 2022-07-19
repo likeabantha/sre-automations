@@ -1,1 +1,1 @@
-# sre-automations
+# SRE Automations
